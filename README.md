@@ -11,6 +11,7 @@ machine learning, deep learning, and NLP.
 | 1 | [Titanic EDA](./project-1-titanic) | Pandas, Seaborn, EDA | In Progress |
 | 2 | [Iran Economy Analysis](./project-2-iran-economy) | Web Scraping, Time Series | Not Started |
 | 3 | [Tehran House Prices](./project-3-house-prices) | ML, Regression, Deployment | Not Started |
+
 More projects will be added regularly as I continue building my portfolio.
 
 ##  Skills
